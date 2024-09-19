@@ -595,6 +595,10 @@ h2.article-title {
 
 /* Media query for medium (md) and small devices */
 @media (max-width: 991.98px) {
+    .h1 {
+        font-size: 4rem;
+    }
+
     .footer-top .col-md-4,
     .footer-top .col-lg-4,
     .footer-top .col-lg-3  {
