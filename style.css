@@ -595,7 +595,7 @@ h2.article-title {
 
 /* Media query for medium (md) and small devices */
 @media (max-width: 991.98px) {
-    .h1 {
+    .hero-title {
         font-size: 4rem;
     }
 
